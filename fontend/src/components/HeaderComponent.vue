@@ -26,10 +26,9 @@
                 <div class="text-center wow">
                     <h2 class="titlepro">
                         <span class="upper">Welcome to</span>
-                        <span class="middle">Corpboot <strong>Template</strong></span>
-                        <span class="bottom">A Bootstrap website template for business</span>
-                    </h2>
-                    <a href="#!" class="btn btn-transparent"><i class="fa fa-download"></i> Download</a>
+                        <span class="middle"> <strong>MaRS</strong> planning and engineering</span>
+                        <span class="bottom">Your Destination for Architectural Innovation, Ingenuity, and Integrity</span>
+                    </h2> 
                 </div>
             </section>
         </header>
