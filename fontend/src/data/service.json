@@ -1,0 +1,42 @@
+[
+    {
+        "title": "CORPORATE SERVICES",
+        "image": "http://localhost:5173/assets/img/serv1.jpg",
+        "description": "Sed posuere malesuada ante, a gravida ipsum congue id. Cras tempus libero sit amet mauris blandit laoreet. Vestibulum ac enim vel tellus pharetra pellentesque vitae vitae lacus. Etiam consequat hendrerit congue. Proin commodo metus ac augue adipiscing, ac aliquet eros posuere. Donec dignissim ullamcorper cursus. Cras eget quam volutpat, luctus nunc vel, euismod felis.",
+        "details": [
+           {
+            "icon": "fa fa-code",
+            "title": "Web Development",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           },{
+            "icon": "fa fa-mobile",
+            "title": "Responsive Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           },{
+            "icon": "fa fa-html5",
+            "title": "Bootstrap Templates",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           }
+        ]
+    },{
+        "title": "PERSONAL SERVICES",
+        "image": "http://localhost:5173/assets/img/serv2.jpg",
+        "description": "Sed posuere malesuada ante, a gravida ipsum congue id. Cras tempus libero sit amet mauris blandit laoreet. Vestibulum ac enim vel tellus pharetra pellentesque vitae vitae lacus. Etiam consequat hendrerit congue. Proin commodo metus ac augue adipiscing, ac aliquet eros posuere. Donec dignissim ullamcorper cursus. Cras eget quam volutpat, luctus nunc vel, euismod felis.",
+        "details": [
+           {
+            "icon": "fa fa-rocket",
+            "title": "Landing Page",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           },{
+            "icon": "fa fa-pencil-square-o",
+            "title": "Logo Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           },{
+            "icon": "fa fa-puzzle-piece",
+            "title": "Training",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur scelerisque metus at metus tristique tincidunt."
+           }
+        ]
+        
+    }
+]
