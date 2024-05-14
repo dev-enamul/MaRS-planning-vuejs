@@ -6,8 +6,7 @@
     .then(response=>{
         link.value = response.data;
     })
-    .catch(error =>{
-        alert(error);
+    .catch(error =>{ 
     });
 </script>
 

@@ -7,13 +7,12 @@ axios.get('http://127.0.0.1:8000/api/team')
 .then(response => {
     teams.value = response.data;
 })
-.catch(error=>{
-    alert(error);
+.catch(error=>{ 
 })
 
 </script>
 <template>
-    <section class="bg-gray">
+    <section class="bg-white">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">

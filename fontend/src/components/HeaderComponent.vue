@@ -27,7 +27,7 @@
                     <h2 class="titlepro">
                         <span class="upper">Welcome to</span>
                         <span class="middle"> <strong>MaRS</strong> planning and engineering</span>
-                        <span class="bottom">Your Destination for Architectural Innovation, Ingenuity, and Integrity</span>
+                        <span class="bottom">M@RS PLANNING AND ENGINEERING SERVICES IS ALWAYS AT YOUR SIDE TO FULFILL YOUR DREAMS.</span>
                     </h2> 
                 </div>
             </section>

@@ -8,12 +8,12 @@
                     <div class="row">
                         <div class="footer-widget col-sm-12 col-md-12 col-lg-4 first">
                             <h3>About us</h3>
-                            <p><a href="about.html">Corpboot</a>, is tellus ac cursus commodo, mauesris condime ntum nibh, ut fermentum mas justo sitters.</p>
+                            <p>Creative Building Design, Economics Structure Design, Consultants & Project Management Services.</p>
                             <ul class="list-unstyled">
-                                <li><i class="fa fa-map-marker"></i> 8578 NW 70th Street, 33166, Miami - Florida, USA</li>
-                                <li class="number"><i class="fa fa-phone"></i> (+385) 593 6888</li>
-                                <li><i class="fa fa-envelope"></i> support@styliothemes.com</li>
-                                <li><i class="fa fa-skype"></i> corpboot</li>
+                                <li><i class="fa fa-map-marker"></i> House No-47 (4th Floor), Road No-5, Block-J, Rampura Banasree, Rampura, Dhaka. , Dhaka, Bangladesh, 1219</li>
+                                <li class="number"><i class="fa fa-phone"></i>01782-864519</li>
+                                <li><i class="fa fa-envelope"></i>marspesinfo@gmail.com</li>
+                                 
                             </ul>
                             <div class="visible-xs-block visible-sm-block pt20"></div>
                         </div>

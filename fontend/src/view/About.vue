@@ -7,6 +7,7 @@
      
       import axios from 'axios';
       import { ref } from 'vue';
+import SkillComponent from '@/components/SkillComponent.vue';
      const PageData = {
            title: 'Home',
            PageName: 'About Us'

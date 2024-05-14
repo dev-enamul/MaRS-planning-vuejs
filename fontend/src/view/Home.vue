@@ -12,5 +12,5 @@
         <AboutComponent /> 
         <!-- <LatestNewsComponent /> -->
         <StartLinkComponent />  
-        <!-- <ClientComponent />  -->
+        <ClientComponent /> 
 </template>

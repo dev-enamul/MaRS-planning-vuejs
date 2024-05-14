@@ -7,8 +7,7 @@
     .then(response=>{
         faqs.value = response.data;
     })
-    .catch(error => {
-        alert(error);
+    .catch(error => { 
     })
 </script>
 

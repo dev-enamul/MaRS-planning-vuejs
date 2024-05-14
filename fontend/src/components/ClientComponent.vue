@@ -33,12 +33,14 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <div class="slick-carousel" id="clients">
-                        <div v-for="client in clients" :key="client.id">
+                    <div class="slick-carousel">
+                        <div class="row">
+                            <div class="col-md-2" v-for="client in clients" :key="client.id">
                             <a :href="client.link">
-                                <img :src="client.image" :alt="client.name">
+                                <img :src="client.image" :alt="client.name" class="w-100">
                             </a>
                         </div>
+                        </div> 
                     </div>
                 </div>
             </div><!-- /row -->
